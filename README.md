@@ -8,7 +8,7 @@ A project-based course @ Aalto University
    * Can potentially reference other fields if there are not much information.
 3. Based on the literature review, identify one area to investigate further
 4. Identify potential improvement(s) in that area.
-5. Develop and suggest the improvements.
+5. Suggest and develop the concepts for the improvements (a proof of concept as a software may not fit in the scope of this course).
 6. Write and present results.
 
 ## 1 Literature Review
