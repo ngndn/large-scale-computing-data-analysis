@@ -5,7 +5,7 @@ A project in the course Large-scale Computing and Data Analysis @ Aalto Universi
 
 ## Premilinary Plan
 1. A literature review on current status of human-in-the-loop in ML pipelines and workflow-based data analysis
-    * Can potentially reference other fields if there are not much information.
+  * Can potentially reference other fields if there are not much information.
 3. Based on the literature review, identify one area to investigate further
 4. Identify potential improvement(s) in that area.
 5. Develop and suggest the improvements.
