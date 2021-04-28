@@ -9,4 +9,4 @@ A project in the course Large-scale Computing and Data Analysis @ Aalto Universi
 3. Based on the literature review, identify one area to investigate further
 4. Identify potential improvement(s) in that area.
 5. Develop and suggest the improvements.
-6. Write and present result.
+6. Write and present results.
