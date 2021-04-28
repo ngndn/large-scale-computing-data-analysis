@@ -3,7 +3,7 @@ A project-based course @ Aalto University
 
 # Topic: Human-in-the-loop for connecting ML pipelines and workflow-based data analysis in large-scale computing
 
-## 0 Premilinary Plan
+## 0 Preliminary Plan
 1. A literature review on current status of human-in-the-loop in ML pipelines and workflow-based data analysis
    * Can potentially reference other fields if there are not much information.
 3. Based on the literature review, identify one area to investigate further
