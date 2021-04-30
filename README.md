@@ -12,3 +12,12 @@ A project-based course @ Aalto University
 6. Write and present results.
 
 ## 1 Literature Review
+(See the first presentation in the report)
+
+## 2 Steps
+1. Basic principles of Human-in-the-loop (HITL) systems.
+2. Choose an application domain.
+3. Apply the principles in analyzing one (or several) frameworks/pipelines in the application domain.
+4. Identify the gap.
+5. Suggest and implement some improvements
+6. Write and report the results.
