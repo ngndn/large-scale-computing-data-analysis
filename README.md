@@ -12,7 +12,7 @@ A project-based course @ Aalto University
 6. Write and present results.
 
 ## 1 Literature Review
-(See the first presentation in the report)
+The list of the literature is presented in the folder `literature`.
 
 ## 2 Steps
 1. Basic principles of Human-in-the-loop (HITL) systems.
@@ -21,3 +21,12 @@ A project-based course @ Aalto University
 4. Identify the gap.
 5. Suggest and implement some improvements
 6. Write and report the results.
+
+## 3 Status
+- 15.5.2021:
+	- Complete the literature reviews. Choose the Decision Support System Framework to continue with the project.
+	- Identify the application domain is the system support for astroinformatics research at Aalto.
+- 18.5.2021:
+	- Complete the first interview with Maarit's team.
+	- Understand the basic pipeline of the sun active regions prediction project.
+	- Identify the potential human-in-the-loop applications.
