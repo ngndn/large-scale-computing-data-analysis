@@ -30,3 +30,13 @@ The list of the literature is presented in the folder `literature`.
 	- Complete the first interview with Maarit's team.
 	- Understand the basic pipeline of the sun active regions prediction project.
 	- Identify the potential human-in-the-loop applications.
+- 19.5.2021:
+	- Talk to Linh about the overall system, message dispatching and receiving to asynchronous changing configuration of the system based on user needs
+- 21.5.2021:
+	- Meeting. Maarit will send some details information about the system
+- 23.5.2021:
+	- Maarit sent some information about the system. Not yet check.
+- 26.5.2021:
+	- Check Maarit email and produce a overview graph of the system and the propose message dispatcher to asynchronous modify the system configuration.
+- 27.5.2021:
+	- Inform Maarit that cannot see the source codes in the Gitlab Repo. Look at the magnetograms files (in FITS format) in Allas. Look briefly at the FITS format introduction.
