@@ -40,3 +40,11 @@ The list of the literature is presented in the folder `literature`.
 	- Check Maarit email and produce a overview graph of the system and the propose message dispatcher to asynchronous modify the system configuration.
 - 27.5.2021:
 	- Inform Maarit that cannot see the source codes in the Gitlab Repo. Look at the magnetograms files (in FITS format) in Allas. Look briefly at the FITS format introduction.
+- 4.6.2021 - 11.6.2021:
+	- Review the code of the project and make a presentation of prototype
+- 15.6.2021:
+	- Meet with Maarit's team to clear some details of the f-modes code.
+- 16.6.2021 - 8.7.2021:
+	- Modify the code and make a integrate into the workflow of Maarit's team
+- 9.7.2021:
+	- Final presentation
